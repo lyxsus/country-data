@@ -2071,6 +2071,22 @@
     "status": "assigned"
   },
   {
+    "alpha2": "KP",
+    "alpha3": "PRK",
+    "countryCallingCodes": [
+      "+850"
+    ],
+    "currencies": [
+      "KPW"
+    ],
+    "ioc": "PRK",
+    "languages": [
+      "kor"
+    ],
+    "name": "North Korea",
+    "status": "assigned"
+  },
+  {
     "alpha2": "KR",
     "alpha3": "KOR",
     "countryCallingCodes": [
@@ -2084,6 +2100,22 @@
       "kor"
     ],
     "name": "Korea, Republic Of",
+    "status": "assigned"
+  },
+  {
+    "alpha2": "KR",
+    "alpha3": "KOR",
+    "countryCallingCodes": [
+      "+82"
+    ],
+    "currencies": [
+      "KRW"
+    ],
+    "ioc": "KOR",
+    "languages": [
+      "kor"
+    ],
+    "name": "South Korea",
     "status": "assigned"
   },
   {
